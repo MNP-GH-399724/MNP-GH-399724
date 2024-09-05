@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay 
 - 👀 I’m interested in the art of web crafting
-- 🌱 I’m currently learning new Angular  
+- 🌱 I’ve Experianced new Angular v.17
 - 💞️ I’m looking to collaborate on anyone who is passionate
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
