@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay 
-- 👀 Passionated in the art of web crafting
-- 🌱 I’m Experianced with Angular latest
-- 💞️ And I looking to collaborate on anyone who is passionate
+- 👀 Passionated in the art of web-crafting
+- 🌱 I’m Experianced with Angular 17+
+- 💞️ Looking for collaborate on anyone passionate
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
